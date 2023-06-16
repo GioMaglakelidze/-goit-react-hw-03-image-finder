@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GioMaglakelidze/-goit-react-hw-03-image-finder/static/css/main.7796ad2b.css",
+    "main.js": "/GioMaglakelidze/-goit-react-hw-03-image-finder/static/js/main.59f6ab00.js",
+    "index.html": "/GioMaglakelidze/-goit-react-hw-03-image-finder/index.html",
+    "main.7796ad2b.css.map": "/GioMaglakelidze/-goit-react-hw-03-image-finder/static/css/main.7796ad2b.css.map",
+    "main.59f6ab00.js.map": "/GioMaglakelidze/-goit-react-hw-03-image-finder/static/js/main.59f6ab00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7796ad2b.css",
+    "static/js/main.59f6ab00.js"
+  ]
+}
